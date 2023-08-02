@@ -3,7 +3,7 @@ body {
 }
 
 .image{
-    border: 5px green;
+    border: 6px rgb(129, 56, 197);
     border-style: dotted dashed solid double;
     border-radius: 10px;
     height: 400px;
